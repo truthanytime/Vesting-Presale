@@ -1,0 +1,7 @@
+# ignore file list
+node_modules
+backup
+test
+oles
+.env
+package-lock.json
